@@ -1,4 +1,4 @@
-# Netflix Web Scraping Project
+# Netflix and Amazon Web Scraping Project
 
 This Jupyter notebook performs extensive web scraping of Netflix's website to collect and analyze information on movies, TV shows, and other streaming content.
 
